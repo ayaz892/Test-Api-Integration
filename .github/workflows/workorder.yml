@@ -18,8 +18,6 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Install dependencies
-      run: pip install -r requirements.txt  # Adjust if you have dependencies
 
     - name: Run Python script
       run: python workorder.py  # Adjust if your script name is different
