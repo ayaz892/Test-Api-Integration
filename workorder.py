@@ -5,9 +5,9 @@ import re
 
 # Email configuration
 EMAIL_HOST = 'imap.gmail.com'
-EMAIL_USERNAME = 'ayazmuhammad1300@gmail.com'
-EMAIL_PASSWORD = 'gtwb kpzf hldx lbrr'
-SEARCH_CRITERIA = '(FROM "ayazhasan97@gmail.com" SUBJECT "Work Order")'
+EMAIL_USERNAME = 'your gmail'
+EMAIL_PASSWORD = 'your Email App Password'
+SEARCH_CRITERIA = '(FROM "sender-mail" SUBJECT "Work Order")'
 
 # Monday.com configuration
 BOARD_ID = '1848752616'
